@@ -13,8 +13,6 @@ I'm a Computer Engineering student at [Pontifical Catholic University of Rio de 
 
 ## Statistics
 
-![Profile Views](https://komarev.com/ghpvc/?username=leonardotrote)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardotrote&show_icons=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardotrote&layout=compact)
 
 ## Contact Me
