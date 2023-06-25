@@ -17,6 +17,6 @@ I'm a Computer Engineering student at [Pontifical Catholic University of Rio de 
 
 ## Contact Me
 
-📫 Feel free to reach out to me via email at leonardotrotemartins@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/leonardo-t-54ab20218/).
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/leonardo-t-54ab20218/).
 
 See you around! ✨
