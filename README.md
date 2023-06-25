@@ -11,6 +11,12 @@ I'm a Computer Engineering student at [Pontifical Catholic University of Rio de 
 - ⚙️ I enjoy leveraging my programming skills to create mods for [The Elder Scrolls V: Skyrim](https://elderscrolls.bethesda.net/en/skyrim) using Papyrus scripting language. You may know me by my alias [glimfeathers](https://www.nexusmods.com/skyrimspecialedition/users/158299623?tab=user+files) in the modding community!
 - 🎨 Apart from coding, I love drawing, exploring music, and diving into captivating books.
 
+## Statistics
+
+![Profile Views](https://komarev.com/ghpvc/?username=leonardotrote)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardotrote&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardotrote&layout=compact)
+
 ## Contact Me
 
 📫 Feel free to reach out to me via email at leonardotrotemartins@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/leonardo-t-54ab20218/).
