@@ -13,7 +13,7 @@ I'm a Computer Engineering student at [Pontifical Catholic University of Rio de 
 
 ## Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardotrote&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardotrote&layout=compact&theme=dark)
 
 ## Contact Me
 
