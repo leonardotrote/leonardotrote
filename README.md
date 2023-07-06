@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Computer Engineering student at [Pontifical Catholic University of Rio de Janeiro (PUC-RJ)](https://www.puc-rio.br/). Currently, I am interning in the Intelligence at [Globo](https://grupoglobo.globo.com/), where I'm gaining valuable experience in the field.
+I'm a Computer Engineering student at [Pontifical Catholic University of Rio de Janeiro (PUC-Rio)](https://www.puc-rio.br/). Currently, I am interning in the Intelligence at [Globo](https://grupoglobo.globo.com/), where I'm gaining valuable experience in the field.
 
 ## Interests and Skills
 
